@@ -95,7 +95,7 @@
                     
                     
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/gongsi2.jpg" width="169" height="100" />
+                    <img src="gongsi2.jpg" width="169" height="100" />
                     </a>
                      
                     <a href="alioTongGae.do">
