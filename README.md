@@ -81,14 +81,14 @@
          <!--메인메뉴-->
             
                     <a href="alioJiJung.do">
-		![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)
+![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)
 			</a>
              		
                      
                     
                    
                     <a href="alioTongGae.do">
-                    ![TonggaeO](https://user-images.githubusercontent.com/53803826/62509796-89775a00-b847-11e9-8fed-c6d3aa27e957.jpg)
+![TonggaeO](https://user-images.githubusercontent.com/53803826/62509796-89775a00-b847-11e9-8fed-c6d3aa27e957.jpg)
                     </a>
               
                   <br>
