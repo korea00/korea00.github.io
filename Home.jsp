@@ -70,7 +70,7 @@
             <header class ="clearfix">
                 <h1>
                     <a href="<c:url value='/alioHome.do'/>">
-                        <img src="images\alio\example\alio.jpg" alt="ALIO | 중견기업 경영정보 공개시스템"></a>
+                        <img src="images\alio\example\alio.jpg width="169" height="100"> alt="ALIO | 중견기업 경영정보 공개시스템"></a>
                     
                     
                     
