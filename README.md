@@ -81,9 +81,8 @@
          <!--메인메뉴-->
             
                     <a href="alioJiJung.do">
-					![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)
-
-					</a>
+		![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)
+			</a>
              		
                      
                     
@@ -97,7 +96,7 @@
                     
                     <a href="alioTongGae.do">
                     
-![gongsiO ](https://user-images.githubusercontent.com/53803826/62509795-89775a00-b847-11e9-8a91-1ab6f8e6e4c3.jpg)
+		![gongsiO ](https://user-images.githubusercontent.com/53803826/62509795-89775a00-b847-11e9-8a91-1ab6f8e6e4c3.jpg)
                     </a>
                      
                     <a href="alioTongGae.do">
