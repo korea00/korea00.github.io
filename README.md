@@ -81,7 +81,8 @@
          <!--메인메뉴-->
             
                     <a href="alioJiJung.do">
-					<img src="/images/alio/example/gongsiO .jpg" width="169" height="100">
+					![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)
+
 					</a>
              		
                      
