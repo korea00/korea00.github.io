@@ -53,7 +53,7 @@
                     
                     
                 
-                    <label for = "toggle"><img src = "images\alio\example/menu.jpg" alt=전체메뉴></label>   <!--메뉴아이콘-->
+                    <label for = "toggle"><img src = "korea00.github.io/menu.jpg" alt=전체메뉴></label>   <!--메뉴아이콘-->
                     <input type = "checkbox" id = "toggle"> <!--체크박스-->
 
                     <ul id="menu"> <!--메뉴-->
@@ -73,7 +73,7 @@
         <div id="main_cont">
             <div class="slogun">
                 <p>
-                    <img src="korea00.github.io/alio.jpg" width="169" height="100" /> alt="중견기업 경영정보 공개시스템">
+                    <img src="korea00.github.io/alio.jpg" width="169" height="100" alt="중견기업 경영정보 공개시스템">
                 </p>
             </div>
             
