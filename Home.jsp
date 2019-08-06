@@ -70,13 +70,14 @@
             <header class ="clearfix">
                 <h1>
                     <a href="<c:url value='/alioHome.do'/>">
-                        <img src="images\alio\example\alio.jpg width="169" height="100"> alt="ALIO | 중견기업 경영정보 공개시스템"></a>
+                        <img src="images\alio\example\alio.jpg width="169" height="100" alt="ALIO | 중견기업 경영정보 공개시스템"></a>
                     
                     
                     
                     
                 
-                    <label for = "toggle"><img src = "/image/korea00.github.io/docs/menu.jpg" alt=전체메뉴></label>   <!--메뉴아이콘-->
+                    <label for = "toggle">
+		<img src = "/image/korea00.github.io/docs/menu.jpg width="169" height="100" alt=전체메뉴></label>   <!--메뉴아이콘-->
                     <input type = "checkbox" id = "toggle"> <!--체크박스-->
 
                     <ul id="menu"> <!--메뉴-->
