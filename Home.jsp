@@ -76,7 +76,7 @@
                     
                     
                 
-                    <label for = "toggle"><img src = "images\alio\example/menu.jpg" alt=전체메뉴></label>   <!--메뉴아이콘-->
+                    <label for = "toggle"><img src = "/image/korea00.github.io/docs/menu.jpg" alt=전체메뉴></label>   <!--메뉴아이콘-->
                     <input type = "checkbox" id = "toggle"> <!--체크박스-->
 
                     <ul id="menu"> <!--메뉴-->
