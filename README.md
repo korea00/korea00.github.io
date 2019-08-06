@@ -94,17 +94,17 @@
                   <br>
                     
                     
-                    <a href="alioTongGae.do">
+                    <a href="alioTongGae.jsp">
                     <img src="korea00.github.io/HYdnk.jpg" width="169" height="100" />
                     </a>
                      
-                    <a href="alioTongGae.do">
+                    <a href="alioTongGae.jsp">
                     <img src="korea00.github.io/bogoseo3.jpg" width="169" height="100" />
                     </a>
                     
                   <br>
                     
-                    <a href="alioTongGae.do">
+                    <a href="alioTongGae.jsp">
                     <img src="korea00.github.io/bogoseo.jpg" width="169" height="100" />
                     </a>
                             
