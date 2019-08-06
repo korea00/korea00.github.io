@@ -89,28 +89,31 @@
                     
                    
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/TonggaeO.jpg" width="169" height="100" />
+                    ![TonggaeO](https://user-images.githubusercontent.com/53803826/62509796-89775a00-b847-11e9-8fed-c6d3aa27e957.jpg)
                     </a>
               
                   <br>
                     
                     
                     <a href="alioTongGae.do">
-                    <img src="/gongsi2.jpg" width="169" height="100" />
+                    
+![gongsiO ](https://user-images.githubusercontent.com/53803826/62509795-89775a00-b847-11e9-8a91-1ab6f8e6e4c3.jpg)
                     </a>
                      
                     <a href="alioTongGae.do">
-                    <img src="/bogoseo.jpg" width="169" height="100" />
+                    ![HYdnk](https://user-images.githubusercontent.com/53803826/62509794-88dec380-b847-11e9-9e5b-82b2b4f6c47c.jpg)
                     </a>
                     
                   <br>
                     
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/HYdnk.jpg" width="169" height="100" />
+                    ![bogoseo3](https://user-images.githubusercontent.com/53803826/62509793-88dec380-b847-11e9-8f4d-3a2e4b9b3956.jpg)
+
                     </a>
                             
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/bogoseo3.jpg" width="169" height="100" />
+                    ![bogoseo3](https://user-images.githubusercontent.com/53803826/62509793-88dec380-b847-11e9-8f4d-3a2e4b9b3956.jpg)
+
                     </a>
                     
                 
