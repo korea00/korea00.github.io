@@ -54,7 +54,7 @@
                     
                 
                     <label for = "toggle">
-		    <img src = "korea00.github.io/menu.jpg" width="50" height="50" alt=전체메뉴>
+		    <img src = "korea00.github.io/menu.jpg" alt=전체메뉴>
 		    </label>   
 		    
 		    <!--메뉴아이콘-->
