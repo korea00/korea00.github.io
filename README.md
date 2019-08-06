@@ -73,7 +73,7 @@
         <div id="main_cont">
             <div class="slogun">
                 <p>
-                    <img src="/images/alio/example/main.jpg" alt="중견기업 경영정보 공개시스템">
+                    <img src="korea00.github.io/alio.jpg" width="169" height="100" /> alt="중견기업 경영정보 공개시스템">
                 </p>
             </div>
             
