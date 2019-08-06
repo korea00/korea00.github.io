@@ -99,17 +99,17 @@
                     </a>
                      
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/bogoseo.jpg" width="169" height="100" />
+                    <img src="korea00.github.io/bogoseo3.jpg" width="169" height="100" />
                     </a>
                     
                   <br>
                     
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/HYdnk.jpg" width="169" height="100" />
+                    <img src="korea00.github.io/bogoseo.jpg" width="169" height="100" />
                     </a>
                             
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/bogoseo3.jpg" width="169" height="100" />
+                    <img src="korea00.github.io/TonggaeO.jpg" width="169" height="100" />
                     </a>
                     
                 
