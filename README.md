@@ -88,31 +88,28 @@
                     
                    
                     <a href="alioTongGae.do">
-	<![bogoseo3](https://user-images.githubusercontent.com/53803826/62509726-3c938380-b847-11e9-83f5-2237aa19a2d2.jpg)	width="169" height="100">
+                    <img src="/images/alio/example/TonggaeO.jpg" width="169" height="100" />
                     </a>
               
                   <br>
                     
                     
                     <a href="alioTongGae.do">
-                    
-		
+                    <img src="/images/alio/example/gongsi2.jpg" width="169" height="100" />
                     </a>
                      
                     <a href="alioTongGae.do">
-                    
+                    <img src="/images/alio/example/bogoseo.jpg" width="169" height="100" />
                     </a>
                     
                   <br>
                     
                     <a href="alioTongGae.do">
-                    
-
+                    <img src="/images/alio/example/HYdnk.jpg" width="169" height="100" />
                     </a>
                             
                     <a href="alioTongGae.do">
-                    
-
+                    <img src="/images/alio/example/bogoseo3.jpg" width="169" height="100" />
                     </a>
                     
                 
