@@ -95,11 +95,11 @@
                     
                     
                     <a href="alioTongGae.do">
-                    <img src="gongsi2.jpg" width="169" height="100" />
+                    <img src="/images/gongsi2.jpg" width="169" height="100" />
                     </a>
                      
                     <a href="alioTongGae.do">
-                    <img src="/images/alio/example/bogoseo.jpg" width="169" height="100" />
+                    <img src="/images/bogoseo.jpg" width="169" height="100" />
                     </a>
                     
                   <br>
