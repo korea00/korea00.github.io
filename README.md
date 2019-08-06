@@ -111,7 +111,7 @@
                     </a>
                             
                     <a href="alioTongGae.do">
-                    ![bogoseo3](https://user-images.githubusercontent.com/53803826/62509793-88dec380-b847-11e9-8f4d-3a2e4b9b3956.jpg)
+                    
 
                     </a>
                     
